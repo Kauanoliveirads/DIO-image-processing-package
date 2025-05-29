@@ -21,7 +21,7 @@ O pacote "image_processing_test" é usado para:
 
 ## Instalação
 
-Use o gerenciador de pacotes ```pip install -i https://test.pypi.org/simple/ image-processing_test ``` para instalar image_processing_test
+Use o gerenciador de pacotes ```pip install -i https://test.pypi.org/simple/image-processing_test ``` para instalar image_processing_test
 
 ```bash
 pip install image_processing_test
